@@ -1,6 +1,6 @@
 # portifolio-exemplo
 
-```
+
 
 # Atividade desenvolvida durante curso de HTML e CSS da Alura.
 
@@ -18,4 +18,4 @@
 
 ### Thalita Mascarenhas
 
-```
+
